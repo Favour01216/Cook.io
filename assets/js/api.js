@@ -7,8 +7,8 @@
 "use strict";
 
 window.ACCESS_POINT = " https://api.edamam.com/api/recipes/v2";
-const /** {String} */ APP_ID = "edd25dbc";
-const /** {String} */ APP_KEY = "92c5dd09b944a63fd0e3ccc45650176f";
+const /** {String} */ APP_ID = "xxxxxxxx";
+const /** {String} */ APP_KEY = "xxxxxxxxxxxxxxxxxx";
 const /** {String} */ TYPE = "public";
 
 /**
